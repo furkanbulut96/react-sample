@@ -1,0 +1,7 @@
+@import "./scss/variables";
+@import "./scss/mixins";
+@import "./scss/reset";
+
+.app {
+  @include bgImg(100%, $main-bgImg-path);
+}

@@ -1,0 +1,39 @@
+.container{
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ 
+
+ .btn{
+  
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: red;
+    border: none;
+    font-size: 1rem;
+    margin: 1rem;
+    color: white;
+    cursor: pointer;
+    transform: scale(0.95);
+
+}
+
+
+.btn1{
+
+   
+    padding: 1rem;
+    border-radius:10px;
+    background-color:blue;
+    border: none;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+    transform: scale(0.95);
+
+}
+
+}
+
